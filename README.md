@@ -32,13 +32,13 @@ RELAYER_ID='abacdefg#1234' # add your Discord username here
 
 ### STRIDE
 ```
-STRIDE_RPC_ADDR='<YOUR_STRIDE_RPC_ADDR>:<YOUR_STRIDE_RPC_PORT>' # Example: '127.0.0.1:16657'
+STRIDE_RPC_ADDR='<YOUR_STRIDE_RPC_ADDR>:<YOUR_STRIDE_RPC_PORT>' # Example: '111.222.333.444:16657'
 STRIDE_MNEMONIC='your mnemonic goes here'
 ```
 
 ### GAIA
 ```
-GAIA_RPC_ADDR='<YOUR_GAIA_RPC_ADDR>:<YOUR_GAIA_RPC_PORT>' # Example: '127.0.0.1:21657'
+GAIA_RPC_ADDR='<YOUR_GAIA_RPC_ADDR>:<YOUR_GAIA_RPC_PORT>' # Example: '555.666.777.888:21657'
 GAIA_MNEMONIC='your mnemonic goes here'
 ```
 
