@@ -73,7 +73,11 @@ fi
 git clone https://github.com/cosmos/relayer.git
 cd relayer && git checkout v2.0.0-rc4
 make install
-rly config init 
+```
+
+## Change to your discord
+```
+rly config init --memo "abacdefg#1234"
 ```
 
 ## Create relayer configuration files
@@ -127,10 +131,6 @@ rly chains add --file=$HOME/.relayer/stride.json stride
 rly chains add --file=$HOME/.relayer/gaia.json gaia
 ```
 
-Check chains added to relayer, change to your discord
-```
-rly config init --memo "abacdefg#1234"
-```
 
 Successful output:
 ```
